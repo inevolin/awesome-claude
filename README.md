@@ -7,6 +7,15 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 
 ---
 
+<div align="center">
+
+**📌 Update:** Official [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) course now available  
+_Practical walkthrough for integrating Claude Code into your development workflow_
+
+</div>
+
+---
+
 ## 📋 Contents
 
 - [🏢 Official Anthropic Resources](#-official-anthropic-resources)
@@ -124,7 +133,7 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [AI Fluency for Nonprofits](https://anthropic.skilljar.com/ai-fluency-for-nonprofits) — Increase organizational impact while staying true to mission and values.
 - [Teaching AI Fluency](https://anthropic.skilljar.com/teaching-ai-fluency) — Teach and assess AI Fluency in instructor-led settings.
 - [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) — Full spectrum of working with Anthropic models using the Claude API.
-- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) — Integrate Claude Code into your development workflow.
+- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) — Practical walkthrough of using Claude Code to accelerate your development workflow.
 - [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) — Build MCP servers and clients from scratch using Python.
 - [MCP: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics) — Advanced patterns including sampling, notifications, and transports.
 - [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock) — Accreditation program course, now available publicly.
